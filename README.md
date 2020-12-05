@@ -1,16 +1,19 @@
-### Hi there 👋
+# 🚩CTF Player
+* Android and x86 reverse engineering
+* Traffic analysis
+* Python/Node.js web security
 
-<!--
-**chengyuhui/chengyuhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 Internet of Things
+* Node-RED [nodes](https://github.com/chengyuhui/node-red-contrib-alibabacloud)
+* ESP32 and Arduino
 
-Here are some ideas to get you started:
+# 📺 (Live) Video Processing / Vtuber things
+Mostly Rust things, but not limited to that.
+* [Bilibili Danmu decoding](https://github.com/chengyuhui/bili-live-ws) [WIP]
+* [Libass overlay for OBS](https://github.com/chengyuhui/obs-subtitle) [Works, but not building on Windows (for now)]
+* Better poll plugin for Bilibili [WIP, not OSS yet]
+* [A simpler way to record live videos](https://github.com/chengyuhui/bilibili-live-hls) [Works and used internally, but edges are rough!]
+* [Sorabuttons](https://github.com/chengyuhui/sorabuttons) [May as well check her out?]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📱 Android Developer
+Currently no active open source project on GH, but doing that for bread.
