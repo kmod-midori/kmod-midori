@@ -1,3 +1,5 @@
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyuhui)](https://github.com/anuraghazra/github-readme-stats)
+
 # 🚩CTF Player
 * Android and x86 reverse engineering
 * Traffic analysis
@@ -18,4 +20,4 @@ Mostly Rust things, but not limited to that.
 # 📱 Android Developer
 Currently no active open source project on GH, but doing that for bread.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuhui)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuhui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
