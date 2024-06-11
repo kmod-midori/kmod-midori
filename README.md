@@ -1,13 +1,17 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyuhui)](https://github.com/anuraghazra/github-readme-stats)
+# `kmod-midori`
+A trans girl who plays around with mobile phones during her work without being kicked out :)
 
-# 🚩CTF Player
-* Android and x86 reverse engineering
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kmod-midori)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🚩Cybersecurity
+* Android (JVM & Native) reverse engineering
 * Traffic analysis
-* Python/Node.js web security
 
 # 🌱 Internet of Things
 * Node-RED [nodes](https://github.com/chengyuhui/node-red-contrib-alibabacloud)
 * ESP32 and Arduino
+* Bluetooth Low Energy (BLE) analysis
+* Home Assistant
 
 # 📺 (Live) Video Processing / Vtuber things
 Mostly Rust things, but not limited to that.
@@ -17,7 +21,12 @@ Mostly Rust things, but not limited to that.
 * [A simpler way to record live videos](https://github.com/chengyuhui/bilibili-live-hls) [Works and used internally, but edges are rough!]
 * [Sorabuttons](https://github.com/chengyuhui/sorabuttons) [May as well check her out?]
 
-# 📱 Android Developer
-Currently no active open source project on GH, but doing that for bread.
+# Desktop & Mobile Interconnect
+* [KDE Connect](https://invent.kde.org/network/kdeconnect-android) contributor
+* [Virtual Displays](https://github.com/kmod-midori/virtual-display) on any device with a browser
+* [Apple Notification Center Service (ANCS) Receiver](https://github.com/kmod-midori/ancs-linux) for Linux desktops that shows your iOS notifications via BLE
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyuhui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 📱 Android & Flutter Developer
+Doing that for bread and cute skirts.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmod-midori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
